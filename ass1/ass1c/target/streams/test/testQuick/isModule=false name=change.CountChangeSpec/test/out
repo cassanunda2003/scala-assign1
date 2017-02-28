@@ -1,0 +1,6 @@
+[0m[[0minfo[0m] [0m[32mCountChangeSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32mCount change [0m[0m
+[0m[[0minfo[0m] [0m[32m- should return 5[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return 3[0m[0m
+[0m[[0minfo[0m] [0m[31m- should return 4 *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  8 was not equal to 3 (CountChangeSpec.scala:15)[0m[0m
