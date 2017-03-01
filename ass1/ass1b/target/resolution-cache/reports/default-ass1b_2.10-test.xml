@@ -7,62 +7,64 @@
 		revision="0.1-SNAPSHOT"
 		conf="test"
 		confs="compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool"
-		date="20170228085835"/>
+		date="20170301091634"/>
 	<dependencies>
 		<module organisation="org.scalatest" name="scalatest_2.10">
-			<revision name="3.0.0" status="release" pubdate="20160801152203" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.scalatest.org" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="0">
+			<revision name="3.0.0" status="release" pubdate="20160801152203" resolver="public" artresolver="public" homepage="http://www.scalatest.org" downloaded="true" searched="true" default="false" conf="default, compile, runtime, default(compile), master" position="0">
 				<license name="the Apache License, ASL Version 2.0" url="http://www.apache.org/licenses/LICENSE-2.0"/>
-				<metadata-artifact status="no" details="" size="4836" time="0" location="/home/mark/.ivy2/cache/org.scalatest/scalatest_2.10/ivy-3.0.0.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scalatest/scalatest_2.10/3.0.0/scalatest_2.10-3.0.0.pom"/>
+				<metadata-artifact status="successful" details="" size="5576" time="89" location="/home/markgit/.ivy2/cache/org.scalatest/scalatest_2.10/ivy-3.0.0.xml" searched="true" original-local-location="/home/markgit/.ivy2/cache/org.scalatest/scalatest_2.10/ivy-3.0.0.xml.original" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scalatest/scalatest_2.10/3.0.0/scalatest_2.10-3.0.0.pom"/>
 				<caller organisation="default" name="ass1b_2.10" conf="test, compile, runtime" rev="3.0.0" rev-constraint-default="3.0.0" rev-constraint-dynamic="3.0.0" callerrev="0.1-SNAPSHOT"/>
 				<artifacts>
-					<artifact name="scalatest_2.10" type="bundle" ext="jar" status="no" details="" size="10521980" time="0" location="/home/mark/.ivy2/cache/org.scalatest/scalatest_2.10/bundles/scalatest_2.10-3.0.0.jar">
+					<artifact name="scalatest_2.10" type="bundle" ext="jar" status="successful" details="" size="10521980" time="1747" location="/home/markgit/.ivy2/cache/org.scalatest/scalatest_2.10/bundles/scalatest_2.10-3.0.0.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scalatest/scalatest_2.10/3.0.0/scalatest_2.10-3.0.0.jar"/>
 					</artifact>
 				</artifacts>
 			</revision>
 		</module>
 		<module organisation="org.scalactic" name="scalactic_2.10">
-			<revision name="3.0.0" status="release" pubdate="20160801151903" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.scalatest.org" downloaded="false" searched="false" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="2">
+			<revision name="3.0.0" status="release" pubdate="20160801151903" resolver="public" artresolver="public" homepage="http://www.scalatest.org" downloaded="true" searched="true" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="2">
 				<license name="the Apache License, ASL Version 2.0" url="http://www.apache.org/licenses/LICENSE-2.0"/>
-				<metadata-artifact status="no" details="" size="2841" time="0" location="/home/mark/.ivy2/cache/org.scalactic/scalactic_2.10/ivy-3.0.0.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scalactic/scalactic_2.10/3.0.0/scalactic_2.10-3.0.0.pom"/>
+				<metadata-artifact status="successful" details="" size="2236" time="100" location="/home/markgit/.ivy2/cache/org.scalactic/scalactic_2.10/ivy-3.0.0.xml" searched="true" original-local-location="/home/markgit/.ivy2/cache/org.scalactic/scalactic_2.10/ivy-3.0.0.xml.original" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scalactic/scalactic_2.10/3.0.0/scalactic_2.10-3.0.0.pom"/>
 				<caller organisation="org.scalatest" name="scalatest_2.10" conf="default, compile, runtime, master" rev="3.0.0" rev-constraint-default="3.0.0" rev-constraint-dynamic="3.0.0" callerrev="3.0.0"/>
 				<artifacts>
-					<artifact name="scalactic_2.10" type="bundle" ext="jar" status="no" details="" size="717852" time="0" location="/home/mark/.ivy2/cache/org.scalactic/scalactic_2.10/bundles/scalactic_2.10-3.0.0.jar">
+					<artifact name="scalactic_2.10" type="bundle" ext="jar" status="successful" details="" size="717852" time="322" location="/home/markgit/.ivy2/cache/org.scalactic/scalactic_2.10/bundles/scalactic_2.10-3.0.0.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scalactic/scalactic_2.10/3.0.0/scalactic_2.10-3.0.0.jar"/>
 					</artifact>
 				</artifacts>
 			</revision>
 		</module>
 		<module organisation="org.scala-lang" name="scala-reflect">
-			<revision name="2.10.6" status="release" pubdate="20150918103538" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.scala-lang.org/" extra-info.apiURL="http://www.scala-lang.org/api/2.10.6/" downloaded="false" searched="false" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="3">
-				<license name="BSD-like" url="http://www.scala-lang.org/downloads/license.html    "/>
-				<metadata-artifact status="no" details="" size="2647" time="0" location="/home/mark/.ivy2/cache/org.scala-lang/scala-reflect/ivy-2.10.6.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.10.6/scala-reflect-2.10.6.pom"/>
+			<revision name="2.10.6" status="release" pubdate="20150918103538" resolver="public" artresolver="public" homepage="http://www.scala-lang.org/" extra-info.apiURL="http://www.scala-lang.org/api/2.10.6/" downloaded="true" searched="true" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="3">
+				<license name="BSD-like" url="http://www.scala-lang.org/downloads/license.html
+			"/>
+				<metadata-artifact status="successful" details="" size="1941" time="93" location="/home/markgit/.ivy2/cache/org.scala-lang/scala-reflect/ivy-2.10.6.xml" searched="true" original-local-location="/home/markgit/.ivy2/cache/org.scala-lang/scala-reflect/ivy-2.10.6.xml.original" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.10.6/scala-reflect-2.10.6.pom"/>
 				<caller organisation="org.scalactic" name="scalactic_2.10" conf="compile, runtime" rev="2.10.6" rev-constraint-default="2.10.6" rev-constraint-dynamic="2.10.6" callerrev="3.0.0"/>
 				<caller organisation="org.scalatest" name="scalatest_2.10" conf="default, compile, runtime, master" rev="2.10.6" rev-constraint-default="2.10.6" rev-constraint-dynamic="2.10.6" callerrev="3.0.0"/>
 				<artifacts>
-					<artifact name="scala-reflect" type="jar" ext="jar" status="no" details="" size="3206180" time="0" location="/home/mark/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.10.6.jar">
-						<origin-location is-local="false" location="UNKNOWN"/>
+					<artifact name="scala-reflect" type="jar" ext="jar" status="successful" details="" size="3206180" time="946" location="/home/markgit/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.10.6.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.10.6/scala-reflect-2.10.6.jar"/>
 					</artifact>
 				</artifacts>
 			</revision>
 		</module>
 		<module organisation="org.scala-lang" name="scala-library">
-			<revision name="2.10.6" status="release" pubdate="20150918103528" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.scala-lang.org/" extra-info.apiURL="http://www.scala-lang.org/api/2.10.6/" downloaded="false" searched="false" default="false" conf="default, master(*), compile, runtime(*), master(compile), runtime, default(compile), compile(*), master" position="1">
-				<license name="BSD-like" url="http://www.scala-lang.org/downloads/license.html          "/>
-				<metadata-artifact status="no" details="" size="2487" time="0" location="/home/mark/.ivy2/cache/org.scala-lang/scala-library/ivy-2.10.6.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.10.6/scala-library-2.10.6.pom"/>
+			<revision name="2.10.6" status="release" pubdate="20150918103528" resolver="public" artresolver="public" homepage="http://www.scala-lang.org/" extra-info.apiURL="http://www.scala-lang.org/api/2.10.6/" downloaded="true" searched="true" default="false" conf="default, compile, runtime(*), master(compile), runtime, default(compile), compile(*), master" position="1">
+				<license name="BSD-like" url="http://www.scala-lang.org/downloads/license.html
+         "/>
+				<metadata-artifact status="successful" details="" size="2044" time="106" location="/home/markgit/.ivy2/cache/org.scala-lang/scala-library/ivy-2.10.6.xml" searched="true" original-local-location="/home/markgit/.ivy2/cache/org.scala-lang/scala-library/ivy-2.10.6.xml.original" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.10.6/scala-library-2.10.6.pom"/>
 				<caller organisation="org.scalactic" name="scalactic_2.10" conf="compile, runtime" rev="2.10.6" rev-constraint-default="2.10.6" rev-constraint-dynamic="2.10.6" callerrev="3.0.0"/>
 				<caller organisation="default" name="ass1b_2.10" conf="test, compile, runtime" rev="2.10.4" rev-constraint-default="2.10.4" rev-constraint-dynamic="2.10.4" callerrev="0.1-SNAPSHOT"/>
 				<caller organisation="org.scala-lang" name="scala-reflect" conf="compile, runtime" rev="2.10.6" rev-constraint-default="2.10.6" rev-constraint-dynamic="2.10.6" callerrev="2.10.6"/>
 				<caller organisation="org.scalatest" name="scalatest_2.10" conf="default, compile, runtime, master" rev="2.10.6" rev-constraint-default="2.10.6" rev-constraint-dynamic="2.10.6" callerrev="3.0.0"/>
 				<artifacts>
-					<artifact name="scala-library" type="jar" ext="jar" status="no" details="" size="7132001" time="0" location="/home/mark/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.10.6.jar">
-						<origin-location is-local="false" location="UNKNOWN"/>
+					<artifact name="scala-library" type="jar" ext="jar" status="successful" details="" size="7132001" time="1384" location="/home/markgit/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.10.6.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.10.6/scala-library-2.10.6.jar"/>
 					</artifact>
 				</artifacts>
 			</revision>
 			<revision name="2.10.4" status="release" pubdate="20140318214629" resolver="sbt-chain" artresolver="sbt-chain" evicted="latest-revision" evicted-reason="" homepage="http://www.scala-lang.org/" extra-info.apiURL="http://www.scala-lang.org/api/2.10.4/" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="-1">
 				<license name="BSD-like" url="http://www.scala-lang.org/downloads/license.html          "/>
-				<metadata-artifact status="no" details="" size="2487" time="0" location="/home/mark/.ivy2/cache/org.scala-lang/scala-library/ivy-2.10.4.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.10.4/scala-library-2.10.4.pom"/>
+				<metadata-artifact status="no" details="" size="2487" time="0" location="/home/markgit/.ivy2/cache/org.scala-lang/scala-library/ivy-2.10.4.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.10.4/scala-library-2.10.4.pom"/>
 				<evicted-by rev="2.10.6"/>
 				<caller organisation="default" name="ass1b_2.10" conf="test, compile, runtime" rev="2.10.4" rev-constraint-default="2.10.4" rev-constraint-dynamic="2.10.4" callerrev="0.1-SNAPSHOT"/>
 				<artifacts>

@@ -1,29 +1,46 @@
+[0m[[0mdebug[0m] [0mInvalidating /home/mark/.ivy2/cache/org.scalactic/scalactic_2.10/bundles/scalactic_2.10-3.0.0.jar: class org.scalactic.Prettifier$ now provided by /home/markgit/.ivy2/cache/org.scalactic/scalactic_2.10/bundles/scalactic_2.10-3.0.0.jar[0m
+[0m[[0mdebug[0m] [0mInvalidating /home/mark/.ivy2/cache/org.scalatest/scalatest_2.10/bundles/scalatest_2.10-3.0.0.jar: class org.scalatest.Matchers now provided by /home/markgit/.ivy2/cache/org.scalatest/scalatest_2.10/bundles/scalatest_2.10-3.0.0.jar[0m
+[0m[[0mdebug[0m] [0mInvalidating /home/mark/.sbt/boot/scala-2.10.4/lib/scala-library.jar: class scala.Boolean now provided by /home/markgit/.sbt/boot/scala-2.10.4/lib/scala-library.jar[0m
 [0m[[0mdebug[0m] [0m[0m
 [0m[[0mdebug[0m] [0mInitial source changes: [0m
-[0m[[0mdebug[0m] [0m	removed:Set()[0m
-[0m[[0mdebug[0m] [0m	added: Set()[0m
-[0m[[0mdebug[0m] [0m	modified: Set(/home/mark/Projects/scala/ass1/ass1b/src/test/scala/BracketsSpec.scala)[0m
-[0m[[0mdebug[0m] [0mRemoved products: Set()[0m
+[0m[[0mdebug[0m] [0m	removed:Set(/home/mark/Projects/scala/ass1/ass1b/src/test/scala/BracketsSpec.scala)[0m
+[0m[[0mdebug[0m] [0m	added: Set(/home/markgit/scala/scala-assign1/ass1/ass1b/src/test/scala/BracketsSpec.scala)[0m
+[0m[[0mdebug[0m] [0m	modified: Set()[0m
+[0m[[0mdebug[0m] [0mRemoved products: Set(/home/mark/Projects/scala/ass1/ass1b/target/scala-2.10/test-classes/brackets/BracksSpec$$anonfun$1.class, /home/mark/Projects/scala/ass1/ass1b/target/scala-2.10/test-classes/brackets/BracksSpec$$anonfun$2.class, /home/mark/Projects/scala/ass1/ass1b/target/scala-2.10/test-classes/brackets/BracksSpec$$anonfun$3.class, /home/mark/Projects/scala/ass1/ass1b/target/scala-2.10/test-classes/brackets/BracksSpec.class)[0m
 [0m[[0mdebug[0m] [0mExternal API changes: API Changes: Set()[0m
-[0m[[0mdebug[0m] [0mModified binary dependencies: Set()[0m
-[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set(/home/mark/Projects/scala/ass1/ass1b/src/test/scala/BracketsSpec.scala)[0m
+[0m[[0mdebug[0m] [0mModified binary dependencies: Set(/home/mark/.ivy2/cache/org.scalactic/scalactic_2.10/bundles/scalactic_2.10-3.0.0.jar, /home/mark/.ivy2/cache/org.scalatest/scalatest_2.10/bundles/scalatest_2.10-3.0.0.jar, /home/mark/.sbt/boot/scala-2.10.4/lib/scala-library.jar)[0m
+[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set(/home/mark/Projects/scala/ass1/ass1b/src/test/scala/BracketsSpec.scala, /home/markgit/scala/scala-assign1/ass1/ass1b/src/test/scala/BracketsSpec.scala)[0m
 [0m[[0mdebug[0m] [0m[0m
 [0m[[0mdebug[0m] [0mSources indirectly invalidated by:[0m
-[0m[[0mdebug[0m] [0m	product: Set()[0m
-[0m[[0mdebug[0m] [0m	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m	product: Set(/home/mark/Projects/scala/ass1/ass1b/src/test/scala/BracketsSpec.scala)[0m
+[0m[[0mdebug[0m] [0m	binary dep: Set(/home/mark/Projects/scala/ass1/ass1b/src/test/scala/BracketsSpec.scala)[0m
 [0m[[0mdebug[0m] [0m	external source: Set()[0m
-[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(/home/mark/Projects/scala/ass1/ass1b/src/test/scala/BracketsSpec.scala)[0m
-[0m[[0mdebug[0m] [0mRecompiling all 1 sources: invalidated sources (1) exceeded 50.0% of all sources[0m
-[0m[[0minfo[0m] [0mCompiling 1 Scala source to /home/mark/Projects/scala/ass1/ass1b/target/scala-2.10/test-classes...[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(/home/mark/Projects/scala/ass1/ass1b/src/test/scala/BracketsSpec.scala, /home/markgit/scala/scala-assign1/ass1/ass1b/src/test/scala/BracketsSpec.scala)[0m
+[0m[[0mdebug[0m] [0mRecompiling all 1 sources: invalidated sources (2) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 1 Scala source to /home/markgit/scala/scala-assign1/ass1/ass1b/target/scala-2.10/test-classes...[0m
 [0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.10.4[0m
 [0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.10.4[0m
-[0m[[0mdebug[0m] [0mRunning cached compiler 80ba5a1, interfacing (CompilerInterface) with Scala compiler version 2.10.4[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 53ad78c6, interfacing (CompilerInterface) with Scala compiler version 2.10.4[0m
 [0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
 [0m[[0mdebug[0m] [0m	-bootclasspath[0m
-[0m[[0mdebug[0m] [0m	/usr/lib/jvm/java-8-oracle/jre/lib/resources.jar:/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar:/usr/lib/jvm/java-8-oracle/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-8-oracle/jre/lib/jsse.jar:/usr/lib/jvm/java-8-oracle/jre/lib/jce.jar:/usr/lib/jvm/java-8-oracle/jre/lib/charsets.jar:/usr/lib/jvm/java-8-oracle/jre/lib/jfr.jar:/usr/lib/jvm/java-8-oracle/jre/classes:/home/mark/.sbt/boot/scala-2.10.4/lib/scala-library.jar[0m
+[0m[[0mdebug[0m] [0m	/usr/lib/jvm/java-8-oracle/jre/lib/resources.jar:/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar:/usr/lib/jvm/java-8-oracle/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-8-oracle/jre/lib/jsse.jar:/usr/lib/jvm/java-8-oracle/jre/lib/jce.jar:/usr/lib/jvm/java-8-oracle/jre/lib/charsets.jar:/usr/lib/jvm/java-8-oracle/jre/lib/jfr.jar:/usr/lib/jvm/java-8-oracle/jre/classes:/home/markgit/.sbt/boot/scala-2.10.4/lib/scala-library.jar[0m
 [0m[[0mdebug[0m] [0m	-classpath[0m
-[0m[[0mdebug[0m] [0m	/home/mark/Projects/scala/ass1/ass1b/target/scala-2.10/test-classes:/home/mark/Projects/scala/ass1/ass1b/target/scala-2.10/classes:/home/mark/.ivy2/cache/org.scalatest/scalatest_2.10/bundles/scalatest_2.10-3.0.0.jar:/home/mark/.ivy2/cache/org.scalactic/scalactic_2.10/bundles/scalactic_2.10-3.0.0.jar:/home/mark/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.10.6.jar[0m
-[0m[[0mdebug[0m] [0mScala compilation took 3.660743833 s[0m
+[0m[[0mdebug[0m] [0m	/home/markgit/scala/scala-assign1/ass1/ass1b/target/scala-2.10/test-classes:/home/markgit/scala/scala-assign1/ass1/ass1b/target/scala-2.10/classes:/home/markgit/.ivy2/cache/org.scalatest/scalatest_2.10/bundles/scalatest_2.10-3.0.0.jar:/home/markgit/.ivy2/cache/org.scalactic/scalactic_2.10/bundles/scalactic_2.10-3.0.0.jar:/home/markgit/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.10.6.jar[0m
+[0m[[0mdebug[0m] [0mScala compilation took 2.158016154 s[0m
+[0m[[0mdebug[0m] [0mInvalidating /home/markgit/scala/scala-assign1/ass1/ass1b/src/test/scala/BracketsSpec.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /home/markgit/scala/scala-assign1/ass1/ass1b/src/test/scala/BracketsSpec.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/home/markgit/scala/scala-assign1/ass1/ass1b/src/test/scala/BracketsSpec.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/home/markgit/scala/scala-assign1/ass1/ass1b/src/test/scala/BracketsSpec.scala)[0m
+[0m[[0mdebug[0m] [0mThe /home/markgit/scala/scala-assign1/ass1/ass1b/src/test/scala/BracketsSpec.scala source file has the following implicit definitions changed:[0m
+[0m[[0mdebug[0m] [0m	convertToStringShouldWrapperForVerb, convertToStringCanWrapper, convertToAnyShouldWrapper, convertNumericToPlusOrMinusWrapper, convertToEqualizer, convertToInAndIgnoreMethodsAfterTaggedAs, shorthandSharedTestRegistrationFunction, convertToRegexWrapper, unconstrainedEquality, convertToStringMustWrapperForVerb, convertToInAndIgnoreMethods, convertToStringShouldWrapper, convertSymbolToHavePropertyMatcherGenerator, shorthandTestRegistrationFunction.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mInvalidating /home/mark/Projects/scala/ass1/ass1b/src/test/scala/BracketsSpec.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /home/mark/Projects/scala/ass1/ass1b/src/test/scala/BracketsSpec.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/home/mark/Projects/scala/ass1/ass1b/src/test/scala/BracketsSpec.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/home/mark/Projects/scala/ass1/ass1b/src/test/scala/BracketsSpec.scala)[0m
+[0m[[0mdebug[0m] [0mThe /home/mark/Projects/scala/ass1/ass1b/src/test/scala/BracketsSpec.scala source file has the following implicit definitions changed:[0m
+[0m[[0mdebug[0m] [0m	convertToStringShouldWrapperForVerb, convertToStringCanWrapper, convertToAnyShouldWrapper, convertNumericToPlusOrMinusWrapper, convertToEqualizer, convertToInAndIgnoreMethodsAfterTaggedAs, shorthandSharedTestRegistrationFunction, convertToRegexWrapper, unconstrainedEquality, convertToStringMustWrapperForVerb, convertToInAndIgnoreMethods, convertToStringShouldWrapper, convertSymbolToHavePropertyMatcherGenerator, shorthandTestRegistrationFunction.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
 [0m[[0mdebug[0m] [0mNew invalidations:[0m
 [0m[[0mdebug[0m] [0m	Set()[0m
 [0m[[0mdebug[0m] [0mInitial set of included nodes: Set()[0m

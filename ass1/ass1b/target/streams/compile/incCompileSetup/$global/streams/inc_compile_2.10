@@ -4,7 +4,7 @@ output mode:
 0 -> single
 output directories:
 1 items
-output dir -> /home/mark/Projects/scala/ass1/ass1b/target/scala-2.10/classes
+output dir -> /home/markgit/scala/scala-assign1/ass1/ass1b/target/scala-2.10/classes
 compile options:
 0 items
 javac options:
@@ -20,13 +20,13 @@ name hashing:
 0 -> true
 products:
 3 items
-/home/mark/Projects/scala/ass1/ass1b/src/main/scala/Brackets.scala -> /home/mark/Projects/scala/ass1/ass1b/target/scala-2.10/classes/brackets/Brackets$.class
-/home/mark/Projects/scala/ass1/ass1b/src/main/scala/Brackets.scala -> /home/mark/Projects/scala/ass1/ass1b/target/scala-2.10/classes/brackets/Brackets$class.class
-/home/mark/Projects/scala/ass1/ass1b/src/main/scala/Brackets.scala -> /home/mark/Projects/scala/ass1/ass1b/target/scala-2.10/classes/brackets/Brackets.class
+/home/markgit/scala/scala-assign1/ass1/ass1b/src/main/scala/Brackets.scala -> /home/markgit/scala/scala-assign1/ass1/ass1b/target/scala-2.10/classes/brackets/Brackets$.class
+/home/markgit/scala/scala-assign1/ass1/ass1b/src/main/scala/Brackets.scala -> /home/markgit/scala/scala-assign1/ass1/ass1b/target/scala-2.10/classes/brackets/Brackets$class.class
+/home/markgit/scala/scala-assign1/ass1/ass1b/src/main/scala/Brackets.scala -> /home/markgit/scala/scala-assign1/ass1/ass1b/target/scala-2.10/classes/brackets/Brackets.class
 binary dependencies:
 2 items
-/home/mark/Projects/scala/ass1/ass1b/src/main/scala/Brackets.scala -> /home/mark/.sbt/boot/scala-2.10.4/lib/scala-library.jar
-/home/mark/Projects/scala/ass1/ass1b/src/main/scala/Brackets.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+/home/markgit/scala/scala-assign1/ass1/ass1b/src/main/scala/Brackets.scala -> /home/markgit/.sbt/boot/scala-2.10.4/lib/scala-library.jar
+/home/markgit/scala/scala-assign1/ass1/ass1b/src/main/scala/Brackets.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
 direct source dependencies:
 0 items
 direct external dependencies:
@@ -45,61 +45,62 @@ inheritance external dependencies:
 0 items
 class names:
 3 items
-/home/mark/Projects/scala/ass1/ass1b/src/main/scala/Brackets.scala -> brackets.Brackets
-/home/mark/Projects/scala/ass1/ass1b/src/main/scala/Brackets.scala -> brackets.Brackets$
-/home/mark/Projects/scala/ass1/ass1b/src/main/scala/Brackets.scala -> brackets.Brackets$class
+/home/markgit/scala/scala-assign1/ass1/ass1b/src/main/scala/Brackets.scala -> brackets.Brackets
+/home/markgit/scala/scala-assign1/ass1/ass1b/src/main/scala/Brackets.scala -> brackets.Brackets$
+/home/markgit/scala/scala-assign1/ass1/ass1b/src/main/scala/Brackets.scala -> brackets.Brackets$class
 used names:
 23 items
-/home/mark/Projects/scala/ass1/ass1b/src/main/scala/Brackets.scala -> +
-/home/mark/Projects/scala/ass1/ass1b/src/main/scala/Brackets.scala -> -
-/home/mark/Projects/scala/ass1/ass1b/src/main/scala/Brackets.scala -> <init>
-/home/mark/Projects/scala/ass1/ass1b/src/main/scala/Brackets.scala -> ==
-/home/mark/Projects/scala/ass1/ass1b/src/main/scala/Brackets.scala -> AnyRef
-/home/mark/Projects/scala/ass1/ass1b/src/main/scala/Brackets.scala -> Boolean
-/home/mark/Projects/scala/ass1/ass1b/src/main/scala/Brackets.scala -> Brackets
-/home/mark/Projects/scala/ass1/ass1b/src/main/scala/Brackets.scala -> Int
-/home/mark/Projects/scala/ass1/ass1b/src/main/scala/Brackets.scala -> None
-/home/mark/Projects/scala/ass1/ass1b/src/main/scala/Brackets.scala -> Predef
-/home/mark/Projects/scala/ass1/ass1b/src/main/scala/Brackets.scala -> String
-/home/mark/Projects/scala/ass1/ass1b/src/main/scala/Brackets.scala -> accumulator
-/home/mark/Projects/scala/ass1/ass1b/src/main/scala/Brackets.scala -> asInstanceOf
-/home/mark/Projects/scala/ass1/ass1b/src/main/scala/Brackets.scala -> augmentString
-/home/mark/Projects/scala/ass1/ass1b/src/main/scala/Brackets.scala -> bracket
-/home/mark/Projects/scala/ass1/ass1b/src/main/scala/Brackets.scala -> bracketString
-/home/mark/Projects/scala/ass1/ass1b/src/main/scala/Brackets.scala -> brackets
-/home/mark/Projects/scala/ass1/ass1b/src/main/scala/Brackets.scala -> bracketsCount
-/home/mark/Projects/scala/ass1/ass1b/src/main/scala/Brackets.scala -> headOption
-/home/mark/Projects/scala/ass1/ass1b/src/main/scala/Brackets.scala -> isInstanceOf
-/home/mark/Projects/scala/ass1/ass1b/src/main/scala/Brackets.scala -> scala
-/home/mark/Projects/scala/ass1/ass1b/src/main/scala/Brackets.scala -> tail
-/home/mark/Projects/scala/ass1/ass1b/src/main/scala/Brackets.scala -> x
+/home/markgit/scala/scala-assign1/ass1/ass1b/src/main/scala/Brackets.scala -> +
+/home/markgit/scala/scala-assign1/ass1/ass1b/src/main/scala/Brackets.scala -> -
+/home/markgit/scala/scala-assign1/ass1/ass1b/src/main/scala/Brackets.scala -> <init>
+/home/markgit/scala/scala-assign1/ass1/ass1b/src/main/scala/Brackets.scala -> ==
+/home/markgit/scala/scala-assign1/ass1/ass1b/src/main/scala/Brackets.scala -> AnyRef
+/home/markgit/scala/scala-assign1/ass1/ass1b/src/main/scala/Brackets.scala -> Boolean
+/home/markgit/scala/scala-assign1/ass1/ass1b/src/main/scala/Brackets.scala -> Brackets
+/home/markgit/scala/scala-assign1/ass1/ass1b/src/main/scala/Brackets.scala -> Int
+/home/markgit/scala/scala-assign1/ass1/ass1b/src/main/scala/Brackets.scala -> None
+/home/markgit/scala/scala-assign1/ass1/ass1b/src/main/scala/Brackets.scala -> Predef
+/home/markgit/scala/scala-assign1/ass1/ass1b/src/main/scala/Brackets.scala -> String
+/home/markgit/scala/scala-assign1/ass1/ass1b/src/main/scala/Brackets.scala -> accumulator
+/home/markgit/scala/scala-assign1/ass1/ass1b/src/main/scala/Brackets.scala -> asInstanceOf
+/home/markgit/scala/scala-assign1/ass1/ass1b/src/main/scala/Brackets.scala -> augmentString
+/home/markgit/scala/scala-assign1/ass1/ass1b/src/main/scala/Brackets.scala -> bracket
+/home/markgit/scala/scala-assign1/ass1/ass1b/src/main/scala/Brackets.scala -> bracketString
+/home/markgit/scala/scala-assign1/ass1/ass1b/src/main/scala/Brackets.scala -> brackets
+/home/markgit/scala/scala-assign1/ass1/ass1b/src/main/scala/Brackets.scala -> bracketsCount
+/home/markgit/scala/scala-assign1/ass1/ass1b/src/main/scala/Brackets.scala -> headOption
+/home/markgit/scala/scala-assign1/ass1/ass1b/src/main/scala/Brackets.scala -> isInstanceOf
+/home/markgit/scala/scala-assign1/ass1/ass1b/src/main/scala/Brackets.scala -> scala
+/home/markgit/scala/scala-assign1/ass1/ass1b/src/main/scala/Brackets.scala -> tail
+/home/markgit/scala/scala-assign1/ass1/ass1b/src/main/scala/Brackets.scala -> x
 product stamps:
 3 items
-/home/mark/Projects/scala/ass1/ass1b/target/scala-2.10/classes/brackets/Brackets$.class -> lastModified(1488273168000)
-/home/mark/Projects/scala/ass1/ass1b/target/scala-2.10/classes/brackets/Brackets$class.class -> lastModified(1488273168000)
-/home/mark/Projects/scala/ass1/ass1b/target/scala-2.10/classes/brackets/Brackets.class -> lastModified(1488273168000)
+/home/markgit/scala/scala-assign1/ass1/ass1b/target/scala-2.10/classes/brackets/Brackets$.class -> lastModified(1488359802000)
+/home/markgit/scala/scala-assign1/ass1/ass1b/target/scala-2.10/classes/brackets/Brackets$class.class -> lastModified(1488359802000)
+/home/markgit/scala/scala-assign1/ass1/ass1b/target/scala-2.10/classes/brackets/Brackets.class -> lastModified(1488359802000)
 source stamps:
 1 items
-/home/mark/Projects/scala/ass1/ass1b/src/main/scala/Brackets.scala -> hash(3f3195827601e737b750a7576204f6c78ab7261d)
+/home/markgit/scala/scala-assign1/ass1/ass1b/src/main/scala/Brackets.scala -> hash(3f3195827601e737b750a7576204f6c78ab7261d)
 binary stamps:
 2 items
-/home/mark/.sbt/boot/scala-2.10.4/lib/scala-library.jar -> lastModified(1395179187000)
+/home/markgit/.sbt/boot/scala-2.10.4/lib/scala-library.jar -> lastModified(1395179187000)
 /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar -> lastModified(1484908115000)
 class names:
 2 items
-/home/mark/.sbt/boot/scala-2.10.4/lib/scala-library.jar -> scala.Some
+/home/markgit/.sbt/boot/scala-2.10.4/lib/scala-library.jar -> scala.None$
 /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar -> java.lang.Object
 internal apis:
 1 items
-/home/mark/Projects/scala/ass1/ass1b/src/main/scala/Brackets.scala -> 
-rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDDFPN8AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAFnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cHWdmr10AAZub3RpZnlzcQB+AAw3N6c9dAAEd2FpdHNxAH4ADA5ESE90AA0kYXNJbnN0YW5jZU9mc3EAfgAMk0d9QXQABmVxdWFsc3NxAH4ADHOywyZ0AAhCcmFja2V0c3NxAH4ADHA92iF0AAxhc0luc3RhbmNlT2ZzcQB+AAxcXUOfdAAMc3luY2hyb25pemVkc3EAfgAMHxwCY3QADSRpc0luc3RhbmNlT2ZzcQB+AAzQ9SbHdAAJbm90aWZ5QWxsc3EAfgAMsB/wH3QADGlzSW5zdGFuY2VPZnNxAH4ADAkhOIJ0AAI9PXNxAH4ADMH5Ood0AAVjbG9uZXNxAH4ADEfljHV0AAYkaW5pdCRzcQB+AAxqRp9UdAAIdG9TdHJpbmdzcQB+AAzS4rWkdAACIT1zcQB+AAwb50TtdAAIZ2V0Q2xhc3NzcQB+AAxvjV5RdAAKaXNCYWxhbmNlZHNxAH4ADAEbPh10AAJuZXNxAH4ADM0wDBd0AAJlcXNxAH4ADECobkx0AAIjI3NxAH4ADLVdjgx0AAhmaW5hbGl6ZXNxAH4ADPlCHp10AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAJzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEN4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAF0ABFicmFja2V0cy5CcmFja2V0c3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABVRyYWl0dXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4AXHhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AWwBwc3EAfgBgc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AENMAAlpbmhlcml0ZWRxAH4AQ0wAB3BhcmVudHNxAH4AQ3hxAH4AZHNxAH4AWwBwc3EAfgBgdXEAfgA+AAAAAHNxAH4AWwBwc3EAfgBgdXEAfgA+AAAAAHNxAH4AWwBwc3EAfgBgdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBjdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBjc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgCAdAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCBc3EAfgB0dAADQW55c3EAfgB4c3EAfgB7dXEAfgB+AAAAAnNxAH4AgHQABXNjYWxhcQB+AIdzcQB+AEBxAH4ATXVxAH4ATgAAAABzcQB+AFAAdAARYnJhY2tldHMuQnJhY2tldHN1cQB+AFMAAAAAfnEAfgBVdAAGTW9kdWxldXEAfgBZAAAAAHNxAH4AWwBwc3EAfgBgcQB+AGVzcQB+AFsAcHNxAH4AYHNxAH4AaHNxAH4AWwBwc3EAfgBgdXEAfgA+AAAAAHNxAH4AWwBwc3EAfgBgdXEAfgA+AAAAAHNxAH4AWwBwc3EAfgBgdXEAfgByAAAAA3NxAH4AdHQACEJyYWNrZXRzc3EAfgB4c3EAfgB7dXEAfgB+AAAAAnNxAH4AgHQACGJyYWNrZXRzcQB+AIdzcQB+AHRxAH4Ad3NxAH4AeHNxAH4Ae3VxAH4AfgAAAANzcQB+AIBxAH4Ag3NxAH4AgHEAfgCFcQB+AIdzcQB+AHRxAH4AiXNxAH4AeHNxAH4Ae3VxAH4AfgAAAAJzcQB+AIBxAH4AjnEAfgCHdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAIYnJhY2tldHNzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVqD/lGzdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAPi9ob21lL21hcmsvUHJvamVjdHMvc2NhbGEvYXNzMS9hc3MxYi90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUPzGVgnYB5ze3UKdXYgT2x4q3Jh0=
+/home/markgit/scala/scala-assign1/ass1/ass1b/src/main/scala/Brackets.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDDFPN8AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAFnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cHWdmr10AAZub3RpZnlzcQB+AAw3N6c9dAAEd2FpdHNxAH4ADA5ESE90AA0kYXNJbnN0YW5jZU9mc3EAfgAMk0d9QXQABmVxdWFsc3NxAH4ADHOywyZ0AAhCcmFja2V0c3NxAH4ADHA92iF0AAxhc0luc3RhbmNlT2ZzcQB+AAxcXUOfdAAMc3luY2hyb25pemVkc3EAfgAMHxwCY3QADSRpc0luc3RhbmNlT2ZzcQB+AAzQ9SbHdAAJbm90aWZ5QWxsc3EAfgAMsB/wH3QADGlzSW5zdGFuY2VPZnNxAH4ADAkhOIJ0AAI9PXNxAH4ADMH5Ood0AAVjbG9uZXNxAH4ADEfljHV0AAYkaW5pdCRzcQB+AAxqRp9UdAAIdG9TdHJpbmdzcQB+AAzS4rWkdAACIT1zcQB+AAwb50TtdAAIZ2V0Q2xhc3NzcQB+AAxvjV5RdAAKaXNCYWxhbmNlZHNxAH4ADAEbPh10AAJuZXNxAH4ADM0wDBd0AAJlcXNxAH4ADECobkx0AAIjI3NxAH4ADLVdjgx0AAhmaW5hbGl6ZXNxAH4ADPlCHp10AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAJzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEN4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAF0ABFicmFja2V0cy5CcmFja2V0c3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABVRyYWl0dXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4AXHhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AWwBwc3EAfgBgc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AENMAAlpbmhlcml0ZWRxAH4AQ0wAB3BhcmVudHNxAH4AQ3hxAH4AZHNxAH4AWwBwc3EAfgBgdXEAfgA+AAAAAHNxAH4AWwBwc3EAfgBgdXEAfgA+AAAAAHNxAH4AWwBwc3EAfgBgdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBjdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBjc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgCAdAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCBc3EAfgB0dAADQW55c3EAfgB4c3EAfgB7dXEAfgB+AAAAAnNxAH4AgHQABXNjYWxhcQB+AIdzcQB+AEBxAH4ATXVxAH4ATgAAAABzcQB+AFAAdAARYnJhY2tldHMuQnJhY2tldHN1cQB+AFMAAAAAfnEAfgBVdAAGTW9kdWxldXEAfgBZAAAAAHNxAH4AWwBwc3EAfgBgcQB+AGVzcQB+AFsAcHNxAH4AYHNxAH4AaHNxAH4AWwBwc3EAfgBgdXEAfgA+AAAAAHNxAH4AWwBwc3EAfgBgdXEAfgA+AAAAAHNxAH4AWwBwc3EAfgBgdXEAfgByAAAAA3NxAH4AdHQACEJyYWNrZXRzc3EAfgB4c3EAfgB7dXEAfgB+AAAAAnNxAH4AgHQACGJyYWNrZXRzcQB+AIdzcQB+AHRxAH4Ad3NxAH4AeHNxAH4Ae3VxAH4AfgAAAANzcQB+AIBxAH4Ag3NxAH4AgHEAfgCFcQB+AIdzcQB+AHRxAH4AiXNxAH4AeHNxAH4Ae3VxAH4AfgAAAAJzcQB+AIBxAH4AjnEAfgCHdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAIYnJhY2tldHNzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVqJKEIldXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQARi9ob21lL21hcmtnaXQvc2NhbGEvc2NhbGEtYXNzaWduMS9hc3MxL2FzczFiL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQ/MZWCdgHnN7dQp1diBPbHircmHQ==
 external apis:
 0 items
 source infos:
 1 items
-/home/mark/Projects/scala/ass1/ass1b/src/main/scala/Brackets.scala -> 
+/home/markgit/scala/scala-assign1/ass1/ass1b/src/main/scala/Brackets.scala -> 
 AAAAAAAAAAA=
 compilations:
-2 items
+3 items
 0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWoP98UN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPi9ob21lL21hcmsvUHJvamVjdHMvc2NhbGEvYXNzMS9hc3MxYi90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
 1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWoP+UbN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPi9ob21lL21hcmsvUHJvamVjdHMvc2NhbGEvYXNzMS9hc3MxYi90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWokoQiV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARi9ob21lL21hcmtnaXQvc2NhbGEvc2NhbGEtYXNzaWduMS9hc3MxL2FzczFiL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEv
