@@ -1,5 +1,0 @@
-[0m[[0minfo[0m] [0m[32mBracksSpec:[0m[0m
-[0m[[0minfo[0m] [0m[32mA brackets balancer [0m[0m
-[0m[[0minfo[0m] [0m[32m- should return false[0m[0m
-[0m[[0minfo[0m] [0m[32m- should return true for a balanced string[0m[0m
-[0m[[0minfo[0m] [0m[32m- should return false for a unbalanced string[0m[0m
