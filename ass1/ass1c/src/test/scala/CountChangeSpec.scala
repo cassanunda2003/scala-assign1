@@ -10,8 +10,4 @@ class CountChangeSpec extends FlatSpec with Matchers {
   it should " return 3 " in {
     CountChange.countChange(4, List(1,2)) should be (3)
   }
-
-  it should " return 4 " in {
-    CountChange.countChange(70,List(10, 5)) should be (3)
-  }
 }
